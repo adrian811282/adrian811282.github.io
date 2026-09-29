@@ -18,6 +18,8 @@
 
 
 ## Blocks
+Hat block, looks just like a hat, it belongs on top of the builkd of everthing
+<img width="134" height="67" alt="image" src="https://github.com/user-attachments/assets/bbf6e1a8-74a9-4786-87ce-58deec1686f5" />
 
 
 
