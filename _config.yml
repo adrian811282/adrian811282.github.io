@@ -1,6 +1,13 @@
- My DevCat Studios Portfolio
-This is my portfolio showcasing my projects and skills.
-adrian.811282
-https://adrian811282.github.io
- jekyll-theme-Tactile
+title: My DevCat Studios Portfolio
+
+description: This is my portfolio showcasing my projects and skills.
+
+baseurl: "" # leave empty since this is your user page
+
+url: "https://adrian811282.github.io" # replace YOURUSERNAME with your GitHub username
+
+theme: jekyll-theme-tactile # replace “merlot” with your chosen theme from the list
+ 
+ 
+
  
