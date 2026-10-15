@@ -9,8 +9,6 @@
 
 Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
 
-### My Solution
-
 -   <img src="blob:chrome-untrusted://media-app/2f88d235-3f6c-4f6b-b60c-70c079bc223f" alt="Screenshot 2026-10-13 8.49.55 AM.png"/><img width="781" height="409" alt="image" src="https://github.com/user-attachments/assets/237ef6b3-474f-4bb8-a82a-5ab2756aefda" />
 
 ### I learned how to grab and drop objects using codes.
@@ -25,8 +23,14 @@ Describe the goal of this lesson or challenge. What was your robot supposed to a
 ### I learned how to use the repeat and for ever in all in one code.
 
 
+## Challenge:Project: Drive to Three numbers
 
-Project: Drive to Three numbers. <img src="blob:chrome-untrusted://media-app/43007ea7-bd79-4746-8c94-c6e1d98b62fe" alt="Screenshot 2026-10-13 8.53.35 AM.png"/><img width="772" height="448" alt="image" src="https://github.com/user-attachments/assets/c372b587-866a-418f-ba26-2e2de1b297c5" />
+### In the Drive to Three Numbers challenge, you will drive the VR Robot to three numbers using the Location Sensor and comparison blocks on the Number Grid Map Playground. To complete this challenge, the VR Robot must drive to the numbers ‘25,’ ‘42,’ and ‘78’ in any order.
+
+### My Solution
+<img src="blob:chrome-untrusted://media-app/43007ea7-bd79-4746-8c94-c6e1d98b62fe" alt="Screenshot 2026-10-13 8.53.35 AM.png"/><img width="772" height="448" alt="image" src="https://github.com/user-attachments/assets/c372b587-866a-418f-ba26-2e2de1b297c5" />
+### What I Learned Is how to use the code to move to to three different numbers to get to the numbers that is needed 
+
 
 Project: Wall Maze with Distance Sensors <img src="blob:chrome-untrusted://media-app/290c3094-b5e9-40e8-a0bc-ad6d20992361" alt="Screenshot 2026-10-13 8.54.58 AM.png"/><img width="851" height="556" alt="image" src="https://github.com/user-attachments/assets/51eecb66-2c7c-4ecf-8aff-555a7631579e" />
 
