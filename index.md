@@ -1,13 +1,11 @@
 # Welcome to My Portfolio Hello! My name is Adrian.
 
-## Projects
+## Project:Disk Mover
 
 - [Vex vr](vex-vr.md)
 
-- Project:Disk Mover
--## Challenge: [Name]
+-##  Using the electromagnet, pick up and place one disk of each color inside each colored goal. Each goal should have one green, one red, and one blue disk to complete this challenge. 
 
-### Goal
 
 Describe the goal of this lesson or challenge. What was your robot supposed to accomplish?
 
@@ -15,7 +13,7 @@ Describe the goal of this lesson or challenge. What was your robot supposed to a
 
 -   <img src="blob:chrome-untrusted://media-app/2f88d235-3f6c-4f6b-b60c-70c079bc223f" alt="Screenshot 2026-10-13 8.49.55 AM.png"/><img width="781" height="409" alt="image" src="https://github.com/user-attachments/assets/237ef6b3-474f-4bb8-a82a-5ab2756aefda" />
 
-### What I Learned
+### I learned how to grab and drop objects using codes.
 
 
 Project: Disk color maze <img src="blob:chrome-untrusted://media-app/ce5cff08-fe55-4ed3-9f46-84a81e04c687" alt="Screenshot 2026-10-13 8.52.17 AM.png"/><img width="755" height="574" alt="image" src="https://github.com/user-attachments/assets/d19694e2-4200-4756-8177-106326904893" />
