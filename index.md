@@ -15,8 +15,16 @@ Describe the goal of this lesson or challenge. What was your robot supposed to a
 
 ### I learned how to grab and drop objects using codes.
 
+## Disk Color Maze
 
-Project: Disk color maze <img src="blob:chrome-untrusted://media-app/ce5cff08-fe55-4ed3-9f46-84a81e04c687" alt="Screenshot 2026-10-13 8.52.17 AM.png"/><img width="755" height="574" alt="image" src="https://github.com/user-attachments/assets/d19694e2-4200-4756-8177-106326904893" />
+### : Program the VR Robot to move through the Disk Maze from Start to Finish, turn around 180 degrees, and then move back through the Disk Maze to the original starting point.
+
+### ## What I Learned
+ <img src="blob:chrome-untrusted://media-app/ce5cff08-fe55-4ed3-9f46-84a81e04c687" alt="Screenshot 2026-10-13 8.52.17 AM.png"/><img width="755" height="574" alt="image" src="https://github.com/user-attachments/assets/d19694e2-4200-4756-8177-106326904893" />
+
+### I learned how to use the repeat and for ever in all in one code.
+
+
 
 Project: Drive to Three numbers. <img src="blob:chrome-untrusted://media-app/43007ea7-bd79-4746-8c94-c6e1d98b62fe" alt="Screenshot 2026-10-13 8.53.35 AM.png"/><img width="772" height="448" alt="image" src="https://github.com/user-attachments/assets/c372b587-866a-418f-ba26-2e2de1b297c5" />
 
