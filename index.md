@@ -85,6 +85,20 @@ How fast can you knock all of the buildings AND the Castle off the Playground?  
 ### What I Learned to be creative to build a painting that we can see every day
 
 
+## Robo rally
+
+### Measure the room and the course of the rally to fisnh the course with a robot
+
+
+### <img src="blob:chrome-untrusted://media-app/2023250e-c966-431c-8887-da3362e34d33" alt="Screenshot 2026-11-06 8.48.37 AM.png"/><img width="401" height="460" alt="image" src="https://github.com/user-attachments/assets/c33b3334-63bd-416e-85c8-4b9cf43c1125" />
+
+<img src="blob:chrome-untrusted://media-app/120ab206-634c-44d6-853d-213d17bda4ba" alt="Screenshot 2026-11-06 8.49.09 AM.png"/><img width="290" height="441" alt="image" src="https://github.com/user-attachments/assets/16505e18-b0c6-4f38-adc6-f9d3bce1e254" />
+
+
+### What I Learned
+
+How to measure big things to create a little scale to do a project practice 
+
 
 
 
