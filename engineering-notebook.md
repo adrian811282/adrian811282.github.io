@@ -4,7 +4,7 @@
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Day 3](#day-3)
-
+- [Day 4](#day-4)
 **Instructions:** Document your work each class. Use the guiding questions and examples that apply to what you did that day. Include pictures, sketches, measurements, or screenshots when helpful.
 
 ---------
@@ -67,4 +67,32 @@
 - What would you do differently?
 - What are your next steps for the next class?
 
+---------
+
+
+## Day 4
+
+— Date: __________
+
+Required notebook update today:
+
+Cardboard measurement length:5 in
+
+Cardboard measurement width:5in
+
+Robot measurement length: 20in
+
+Robot measurement width: 10in
+
+Length scale: _1_:_5_
+
+Width scale: _1_:_5_
+
+Smallest width of the model racetrack: _10__in
+Apply scale: 5 X 10 = __50_ mm
+
+Convert to cm =5cm
+
+Reflection: what you learned today I learned how to propley scale a objet or a thing. being able to measure them
+anything else you did if there was extra time practice how to measure object and calculate them
 ---------
