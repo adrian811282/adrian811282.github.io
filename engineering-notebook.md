@@ -38,34 +38,15 @@
 
 — Date: __________
 
-### 1. What was your goal or plan for today?
-- What were you trying to accomplish?
-- What steps did you plan to take?
-- What materials, parts, or tools did you need?
+
 
 ### 2. What did you work on today?
-- What did you design, sketch, build, or program?
-- What changes or improvements did you make?
-- What tasks did you complete?
-- Include pictures, diagrams, or measurements if applicable.
+- What did you design, sketch, build, or program? trying to build a mini race track for the vex robot
+- What changes or improvements did you make? know what sizes the mini robot that we will use and how to measure it
+- What tasks did you complete?Build the race track and a mini robot
 
-### 3. What tests or experiments did you perform?
-- What were you trying to test or discover?
-- What did you predict would happen?
-- What were your results or observations?
-- Did your design or solution work as expected?
 
-### 4. What challenges did you encounter?
-- What problems, errors, or failures occurred?
-- What did you try to fix or improve?
-- What worked or didn't work?
-- What would you change about your design or approach?
 
-### 5. What did you learn, and what comes next?
-- What new skills, concepts, or techniques did you learn?
-- What did you accomplish?
-- What would you do differently?
-- What are your next steps for the next class?
 
 ---------
 
